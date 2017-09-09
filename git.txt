@@ -6,3 +6,4 @@
 删除分支：git branch -d <name>
 add a first row
 git merge --no-ff
+git merge fast forward
